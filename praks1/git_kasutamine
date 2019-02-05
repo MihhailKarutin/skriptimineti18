@@ -5,7 +5,7 @@ apt-get install git
     4  git config --global user.name "Mihhail Karutin"
     5  git config --global user.email mihhail.karutin@khk.ee
     6  git config --global core.editor nano
-    7  git init
+    7  git init  ## /home/user/skriptimine/
     8  mkdir praks1
     9  cd praks1/
    10  touch git_kasutamine
