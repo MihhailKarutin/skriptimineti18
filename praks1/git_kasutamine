@@ -1,4 +1,5 @@
     1  su root
+apt-get update
 apt-get install git
     2  mkdir /home/user/skriptimine
     3  cd /home/user/skriptimine/
